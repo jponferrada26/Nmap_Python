@@ -1,0 +1,9 @@
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.1.103;;;tcp;80;http;open;Apache httpd;PHP/5.6.25;syn-ack;2.4.23;10;cpe:/a:apache:http_server:2.4.23
+192.168.1.103;;;tcp;135;msrpc;open;Microsoft Windows RPC;;syn-ack;;10;cpe:/o:microsoft:windows
+192.168.1.103;;;tcp;139;netbios-ssn;open;Microsoft Windows netbios-ssn;;syn-ack;;10;cpe:/o:microsoft:windows
+192.168.1.103;;;tcp;445;microsoft-ds;open;Microsoft Windows 7 - 10 microsoft-ds;workgroup: WORKGROUP;syn-ack;;10;cpe:/o:microsoft:windows
+192.168.1.103;;;tcp;8123;http;open;Node.js;;syn-ack;;10;cpe:/a:nodejs:node.js
+192.168.1.103;;;tcp;49668;msrpc;open;Microsoft Windows RPC;;syn-ack;;10;cpe:/o:microsoft:windows
+192.168.1.103;;;tcp;55865;unknown;open;;;syn-ack;;3;
+192.168.1.103;;;tcp;57621;;open;;;syn-ack;;;
